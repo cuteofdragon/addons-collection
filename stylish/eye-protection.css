@@ -1,0 +1,20 @@
+/*
+ * Name:    eye protection
+ * Author:  robot527
+ * Version: 2016.11.23.V1
+ */
+@-moz-document regexp('(?!^https?://github\\.com).*') {
+	/*
+		This code applies to all URLs except those that start with 
+		https://github.com
+	*/
+	/* Headings */
+	h1,h2,h3,h4,h5,h6  {background-color:#CCE8CF !important;}
+	
+	/* text */
+	body,p,div  {background-color:#CCE8CF !important;}
+	
+	/* Links */
+	a:link  {color:#0000FF !important;} /* color:blue */
+	a:visited  {color:#800080 !important;} /* color:purple */
+}

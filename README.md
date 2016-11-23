@@ -22,6 +22,9 @@
 
 [Stylish](https://userstyles.org/) - User styles let you change the way websites look. We've got Facebook themes, Tumblr themes, Google themes, Firefox themes, and more. There are tens of thousands of user styles, I'm sure you'll like at least a few. [Stylish for Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=external-userstyleshome)
 
+[_Dark GitHub style_](https://userstyles.org/styles/37035/github-dark)
+![Dark GitHub style](https://userstyles.org/style_screenshots/37035_after.png)
+
 ### Tampermonkey
 
 [Tampermonkey](http://tampermonkey.net/) is a free browser extension and the most popular userscript manager. It's available for Chrome, Microsoft Edge, Safari, Opera Next, Dolphin Browser and Firefox. Tampermonkey will give you much convenience in managing your userscripts. It provides features like easy script installation, automatic update checks, a simple overview what scripts are running at a tab and a built-in editor.
