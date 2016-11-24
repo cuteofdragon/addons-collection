@@ -4,6 +4,8 @@
  * This repository is a collection of useful addons for **major browsers**, eg: Firefox, Chrome.
  * Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcomed.
 
+##[中文说明](./README_zh-CN.md)
+
 ## Table of Contents
 
  - [Adblock Plus](#adblock-plus)
