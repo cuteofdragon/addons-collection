@@ -12,7 +12,7 @@
 	h1,h2,h3,h4,h5,h6  {background-color:#CCE8CF !important;}
 	
 	/* text */
-	body,p,div  {background-color:#CCE8CF !important;}
+	body,p,div,table  {background-color:#CCE8CF !important;}
 	
 	/* Links */
 	a:link  {color:#0000FF !important;} /* color:blue */
