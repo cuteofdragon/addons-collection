@@ -1,18 +1,18 @@
 /*
  * Name:    eye protection
  * Author:  robot527
- * Version: 2016.11.23.V1
+ * Version: 2017.01.08.V1
  */
-@-moz-document regexp('(?!^https?://github\\.com).*') {
+@-moz-document regexp('(?!^https?:\/\/(github\\.com|bitbucket\\.org|ditu\\.baidu\\.com))\\S*') {
 	/*
 		This code applies to all URLs except those that start with 
-		https://github.com
+		https://github.com or https://bitbucket.org , and exclude http://ditu.baidu.com
 	*/
 	/* Headings */
 	h1,h2,h3,h4,h5,h6  {background-color:#CCE8CF !important;}
 	
 	/* text */
-	body,p,div,table  {background-color:#CCE8CF !important;}
+	body,p,div, table  {background-color:#CCE8CF !important;}
 	
 	/* Links */
 	a:link  {color:#0000FF !important;} /* color:blue */
