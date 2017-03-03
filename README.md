@@ -11,6 +11,8 @@
  - [Adblock Plus](#adblock-plus)
  - [Stylish](#stylish)
  - [Tampermonkey](#tampermonkey)
+ - [HTTPS Everywhere](#https-everywhere)
+ - [Privacy Badger](#privacy-badger)
 
 ***********
 
@@ -31,4 +33,11 @@
 
 [Tampermonkey](http://tampermonkey.net/) is a free browser extension and the most popular userscript manager. It's available for Chrome, Microsoft Edge, Safari, Opera Next, Dolphin Browser and Firefox. Tampermonkey will give you much convenience in managing your userscripts. It provides features like easy script installation, automatic update checks, a simple overview what scripts are running at a tab and a built-in editor.
 
+### HTTPS Everywhere
+
+[HTTPS Everywhere](https://www.eff.org/https-everywhere) is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. Encrypt the web: Install HTTPS Everywhere today.
+
+### Privacy Badger
+
+[Privacy Badger](https://www.eff.org/privacybadger) is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web. If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser. To the advertiser, it's like you suddenly disappeared.
 
