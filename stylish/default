@@ -1,0 +1,25 @@
+Default
+*{
+    font-family: Verdana, Arial, "Noto Sans CJK TC", "Microsoft YaHei", "Microsoft JhengHei";
+    text-shadow: #aaaaaa 0.005em 0.005em 0.025em !important;
+}
+
+匹配正規表示式的網址
+(?!^https?:\/\/(localhost|mail\.google\.com))\S*
+
+Gmail
+* {
+    font-family: Verdana, Arial, "Noto Sans CJK TC", "Microsoft YaHei", "Microsoft JhengHei";
+    text-shadow: #dddddd 0.001em 0.001em 0.005em !important;
+}
+
+該域名上的網址
+mail.google.com
+
+localhost
+* {
+    font-family: inherit;
+    text-shadow: inherit !important;
+}
+該域名上的網址
+localhost
